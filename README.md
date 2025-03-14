@@ -1,4 +1,5 @@
 # BinBuddy
 This is my first college project.
 <br>
-Author - Danish Naik 
+Author - Danish S Naik
+
